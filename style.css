@@ -139,14 +139,14 @@
     background-color: burlywood;
     padding: 20px;
 }
-.keteringusluge{
+.galery{
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
     box-sizing: border-box;
 
 } 
-.keteringusluge img{
+.galery img{
     width: 360px;
     height: 240px;
     margin: 10px;
