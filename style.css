@@ -133,20 +133,20 @@
 }
 
 /*galerija*/
-#keteringusluge{
+#gallery{
     display: flex;
     flex-direction: column;
     background-color: burlywood;
     padding: 20px;
 }
-.galery{
+.gallery{
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
     box-sizing: border-box;
 
 } 
-.galery img{
+.gallery img{
     width: 360px;
     height: 240px;
     margin: 10px;
